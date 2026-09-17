@@ -1,8 +1,8 @@
 	// Write a program calculate average of three number	
 
 /*
-	#include <stdio.h>
-	int main() 
+       #include<stdio.h>
+       int main()
 	{
 		float a, b, c, average;
 		printf("Enter three numbers: ");
