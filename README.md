@@ -1,14 +1,13 @@
 # C Programming Fundamentals & Practice
 
-A structured collection of C programs covering fundamental programming concepts,
-from basic input/output and operators to decision-making and iterative statements.
+A structured collection of C programs covering fundamental programming concepts, from basic input/output and operators to decision-making, iterative statements, arrays, pointers, and matrix operations.
 
 ---
 
-## 📑 Program Index
+## 📚 Program Index
 
 | File Name | Topic / Concept | Description |
-|:---------:|-----------------|-------------|
+|---|---|---|
 | `01.c` | **Data Types & Input/Output** | Demonstrates fundamental data types along with basic input and output operations. |
 | `02.c` | **Arithmetic Calculations** | Calculates the area of a circle using a user-provided radius. |
 | `03.c` | **Mathematical Operations** | Computes the average of three given numbers using arithmetic operations. |
@@ -18,14 +17,18 @@ from basic input/output and operators to decision-making and iterative statement
 | `07.c` | **Conditional Branching** | Determines whether a given integer is even or odd using conditional logic. |
 | `08.c` | **Multi-way Decision Making** | Classifies a number as positive, negative, or zero using conditional statements. |
 | `09.c` | **Menu-Driven Calculator** | Implements basic arithmetic operations through a menu-based switch-case program. |
-| `10.c` | **Iterative Loops** | Generates multiplication tables using different looping structures in C. |
+| `10.c` | **Iterative Loops** | Generates multiplication tables using looping structures in C. |
+| `11.c` | **Array & Memory Addresses** | Demonstrates storing array elements and displaying their corresponding memory addresses. |
+| `12.c` | **Array Sum** | Calculates the sum of all elements stored in a one-dimensional array. |
+| `13.c` | **Matrix Addition** | Performs element-wise addition of two matrices using two-dimensional arrays. |
 
 ---
 
 ## ⚙️ Compilation & Execution
 
-Each program can be compiled using a C compiler such as GCC.
+Each program can be compiled using a C compiler such as **GCC**.
+
+### Compile
 
 ```bash
 gcc 01.c -o program
-./program# C--Programming-Codes
